@@ -3,9 +3,9 @@
     "description": "a test project",
     "type": "project",
     "require": {
-        "elasticsearch/elasticsearch": "*"
+        "leancloud/leancloud-sdk": "*"
     },
-    "license": "888",
+    "license": "wew",
     "authors": [
         {
             "name": "xuqiangshui",
