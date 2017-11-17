@@ -1,0 +1,16 @@
+{
+    "name": "xuqiangshui/compoer",
+    "description": "a test project",
+    "type": "project",
+    "require": {
+        "elasticsearch/elasticsearch": "*"
+    },
+    "license": "888",
+    "authors": [
+        {
+            "name": "xuqiangshui",
+            "email": "422760936@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
