@@ -3,7 +3,8 @@
     "description": "a test project",
     "type": "project",
     "require": {
-        "leancloud/leancloud-sdk": "*"
+        "leancloud/leancloud-sdk": "dev-master",
+        "gregwar/captcha": "dev-master"
     },
     "license": "wew",
     "authors": [
