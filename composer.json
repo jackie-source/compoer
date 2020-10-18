@@ -1,17 +1,20 @@
 {
     "name": "xuqiangshui/compoer",
     "description": "a test project",
-    "type": "project",
-    "require": {
+    "type": "library",
+
+"require": {
         "leancloud/leancloud-sdk": "dev-master",
         "gregwar/captcha": "dev-master"
     },
-    "license": "wew",
-    "authors": [
+    "license": "MIT",
+
+"authors": [
         {
             "name": "xuqiangshui",
             "email": "422760936@qq.com"
-        }
+
+}
     ],
     "minimum-stability": "dev"
 }
